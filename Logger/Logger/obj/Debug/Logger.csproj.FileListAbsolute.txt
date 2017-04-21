@@ -1,0 +1,9 @@
+c:\users\sose\documents\visual studio 2017\Projects\Logger\Logger\bin\Debug\Logger.exe.config
+c:\users\sose\documents\visual studio 2017\Projects\Logger\Logger\bin\Debug\Logger.exe
+c:\users\sose\documents\visual studio 2017\Projects\Logger\Logger\bin\Debug\Logger.pdb
+c:\users\sose\documents\visual studio 2017\Projects\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+c:\users\sose\documents\visual studio 2017\Projects\Logger\Logger\obj\Debug\Logger.Form1.resources
+c:\users\sose\documents\visual studio 2017\Projects\Logger\Logger\obj\Debug\Logger.Properties.Resources.resources
+c:\users\sose\documents\visual studio 2017\Projects\Logger\Logger\obj\Debug\Logger.csproj.GenerateResource.Cache
+c:\users\sose\documents\visual studio 2017\Projects\Logger\Logger\obj\Debug\Logger.exe
+c:\users\sose\documents\visual studio 2017\Projects\Logger\Logger\obj\Debug\Logger.pdb
